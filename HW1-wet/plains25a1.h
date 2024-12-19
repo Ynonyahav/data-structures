@@ -14,13 +14,20 @@
 #define PLAINS25WINTER_WET1_H_
 
 #include "wet1util.h"
+#include "herd/herd.h"
+#include "Horses/Horses.h"
 
 class Plains {
 private:
     //
     // Here you may add anything you want
     //
-    
+    Herd* empty_herds;
+    Herd* herds;
+    Horses* horses;
+    int empty_herds_size;
+    int herds_size;
+    int horses_size;
 public:
     // <DO-NOT-MODIFY> {
     Plains();
