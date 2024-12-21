@@ -1,0 +1,3 @@
+C:/Users/Erez-PC/Documents/Technion/Courses/Data structures/תרגיל בית/Wet-01/data-structures/HW1-wet/cmake-build-debug/CMakeFiles/HW1_wet.dir
+C:/Users/Erez-PC/Documents/Technion/Courses/Data structures/תרגיל בית/Wet-01/data-structures/HW1-wet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Erez-PC/Documents/Technion/Courses/Data structures/תרגיל בית/Wet-01/data-structures/HW1-wet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
